@@ -22,7 +22,7 @@
 const API_ENDPOINT = "https://api.veritone.com/v3/graphql";
 const AUTH_BASE  = "https://api.veritone.com/v1/admin/oauth/authorize?scope=all&response_type=token&client_id=";
 const CLIENT_ID = "567ab5dc-76e6-4c7b-8d46-a7e31879b8db";
-const HOME_URL = "https://www.shmoothg.com";
+const HOME_URL = "silly-tesla-bea410.netlify.com";
 const TEXT_VALIDATION_ERROR_MSG = "That doesn't look right. Try again.";
 const DAYS_TO_STORE_TOKEN = 1;
 let TDO_ID = null;
